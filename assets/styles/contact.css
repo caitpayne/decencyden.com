@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+/* Structure */
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #FF00FF;
+	background-image: url("../img/blue%20sky.jpg");
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	width: 1020px;
+}
+ 
+footer {
+	clear: both; 
+}
+
+#wrapper {
+	width: 1020px;
+}
+
+#logo {
+	padding-top: 1cm;
+	padding-left: 0.5cm;
+	width: 10;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #260C84; 
+	font-weight: 600;
+}
+
+#sub {
+	padding-left: 2.2cm;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	color: #260C84; 
+	font-size: 14px; 
+	font-weight: 300;
+}
+
+#nav {
+	float: left;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100px;
+	background-color: rgba(123,234,251,0.3);
+}
+
+li a {
+	display: inline-block;
+	color: #484f96;
+	text-decoration: none;
+	margin: 10px;
+	line-height:150%;
+	width: 60px;
+}
+
+ a:link {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+ a:visited {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+li a:hover {
+ 	text-decoration: none;
+ 	color: #260C84;
+ 	background-color: #FFFFFF;
+ }
+
+ a:active {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+#contact {
+	position: relative;
+	top: 100px;
+	left: 100px;
+	padding: 10px;
+	background-color: rgba(123,234,251,0.3);
+	color: #260C84;
+	width: 780px;
+	line-height: 200%;
+	width: 700px;
+	display: inline-block;
+	float: left;
+}
+
+ a:link {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+ a:visited {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+ a:hover {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+ a:active {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }

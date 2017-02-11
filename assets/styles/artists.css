@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+/* Structure */
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/blue%20sky.jpg");
+	background-color: #FF00FF;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	width: 1020px;
+	height: 1000px;
+	color: #260C84;
+}
+
+#logo {
+	padding-top: 0.5cm;
+	padding-left: 0.5cm;
+	width: 10;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #260C84; 
+	font-weight: 600;
+}
+
+#sub {
+	padding-left: 2.2cm;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	color: #260C84; 
+	font-size: 14px; 
+	font-weight: 300;
+}
+
+#nav {
+	float: left;
+}
+
+#post1 {
+	float: left;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100px;
+	background-color: rgba(123,234,251,0.3);
+}
+
+li a {
+	display: inline-block;
+	color: #484f96;
+	text-decoration: none;
+	margin: 10px;
+	line-height:150%;
+	width: 60px;
+}
+
+#main {
+	padding-left: 3cm;
+	padding-top: 1cm;
+	width: 9cm;
+}
+
+#clickhere {
+	position:relative;
+	left: 110px;
+	display: inline-block;
+}
+
+#hoop {
+	font: 'Avenir Next Pro Ultra Light';
+	color: #e9b0c2;
+	font-style: italic;
+	background-color: #260C84;
+	font-size: 500%;
+	font-weight: lighter;
+	position: relative;
+	left: 120px;
+	text-align: center;
+	letter-spacing: 75px;
+	padding-left: 25px;
+	display: inline-block;
+}
+
+#hoopphoto {
+    border: 1px solid #b0ebff; 
+    border-radius: 5px; 
+    box-shadow: 0 0 5px 3px #b0ebff; 
+    outline: none; 
+    position: relative;
+    left: 250px;
+  } 
+
+#wrapper {
+	width: 1020px;
+	height: 900x;
+}
+
+#footer {
+	position: relative;
+	bottom: 0;
+	left: 0;
+	top: 990px;
+	right: 1010px;
+	margin-top:-200px;
+	clear:both;
+}
+
+ a:link {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+ a:visited {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+li a:hover {
+ 	text-decoration: none;
+ 	color: #260C84;
+ 	background-color: #FFFFFF;
+ }
+
+ a:active {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }

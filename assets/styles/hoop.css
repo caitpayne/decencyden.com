@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+/* Structure */
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/blue%20sky.jpg");
+	background-color: #FF00FF;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	height: 1500px;
+	color: #260C84;
+}
+
+footer {
+	clear: both;
+}
+
+#wrapper {
+	width: 1020px;
+}
+
+#logo {
+	padding-top: 1cm;
+	padding-left: 0.5cm;
+	width: 10;
+	color: black;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #260C84; 
+	font-weight: 600;
+}
+
+#sub {
+	padding-left: 2.2cm;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	color: #260C84; 
+	font-size: 14px; 
+	font-weight: 300;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100px;
+	background-color: rgba(123,234,251,0.3);
+}
+
+li a {
+	display: inline-block;
+	color: #484f96;
+	text-decoration: none;
+	margin: 10px;
+	line-height:150%;
+	width: 60px;
+}
+
+#nav {
+	float: left;
+}
+
+#mainhoop {
+	color: #260C84;
+	width: 400px;
+	padding-left: 2cm;
+	display: inline-block;
+	float: left;
+}
+
+#hoophatchback {
+	position: absolute;
+	right: 0;
+	top: 0;
+	float: right;
+}
+
+#dreampromo {
+	color: #260C84;
+	width: 320px;
+	display: inline-block;
+	float: right;
+	position: relative;
+	top: 250px;
+	padding-left: 100px;
+}
+
+#albumcover {
+	border: medium inset #E99DAB;
+	width: 400px;
+	height: 400px;
+	position: relative;
+	left: 80px;
+	top: 70px;
+	display: inline-block;
+}
+
+#footer {
+	position: relative;
+	bottom: 0;
+	left: 0;
+	top: 990px;
+	right: 1010px;
+	margin-top:-200px;
+	clear:both;
+}
+
+ a:link {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+ a:visited {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+li a:hover {
+ 	text-decoration: none;
+ 	color: #260C84;
+ 	background-color: #FFFFFF;
+ }
+
+ a:active {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }

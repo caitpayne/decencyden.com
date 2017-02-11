@@ -1,0 +1,148 @@
+@charset "UTF-8";
+
+/* Structure */
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/blue%20sky.jpg");
+	background-color: #FF00FF;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	width: 1020px;
+}
+
+footer {
+	clear: both;
+}
+
+#wrapper {
+	width: 1020px;
+}
+
+#construction {
+	float: none;
+	position: relative;
+	left: 75px;
+	top: -150px;
+	display: inline-block;
+}
+
+#logo {
+	padding-top: 30px;
+	padding-left: 0.5cm;
+	width: 10;
+	color: black;
+	font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #260C84; 
+	font-weight: 600;
+}
+
+#nav {
+	float: left;
+}
+
+#post1 {
+	float: left;
+	position: relative;
+	left:-30px;
+}
+
+#oval {
+	width: 200px;
+	height: 75px;
+	background: #9C9CE3;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+	opacity: 0.5;
+	-webkit-border-before-color: #9C9CE3;
+	-webkit-border-after-color: #9C9CE3;
+	float: right;
+}
+
+#sub {
+	padding-left: 2.2cm;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif; 
+	color: #260C84; 
+	font-size: 14px; 
+	font-weight: 300;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	width: 100px;
+	background-color: rgba(123,234,251,0.3);
+}
+
+li a {
+	display: inline-block;
+	color: #484f96;
+	text-decoration: none;
+	margin: 10px;
+	line-height:150%;
+	width: 60px;
+}
+
+#wimpy {
+	position: relative;
+	left: 290px;
+}
+
+#moon {
+	position: relative;
+	top: -100px;
+	left: 400px;
+}
+
+#announcement {
+	border: medium inset #E99DAB;
+	height: 125px;
+	width: 200px;
+	padding-top: 0px;
+	padding-left: 5px;
+	color: #484f96;
+	position: relative;
+	left: 75px;
+	top: 20px;
+	display: inline-block;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 125%;
+}
+
+#album {
+	float: left;
+	border: medium inset #E99DAB;
+	width: 200;
+	height: 200;
+	color: 555555;
+}
+
+#roses {
+	float: left;
+}
+
+ a:link {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+ a:visited {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
+li a:hover {
+ 	text-decoration: none;
+ 	color: #260C84;
+ 	background-color: #FFFFFF;
+ }
+
+ a:active {
+ 	text-decoration: none;
+ 	color: #260C84;
+ }
+
