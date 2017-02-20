@@ -116,8 +116,8 @@ li a {
 #album {
 	float: left;
 	border: medium inset #E99DAB;
-	width: 200;
-	height: 200;
+	width: 200px;
+	height: 200px;
 	color: 555555;
 }
 
