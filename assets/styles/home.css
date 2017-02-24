@@ -121,6 +121,13 @@ li a {
 	color: 555555;
 }
 
+#promo text {
+	position: relative;
+	padding-left: 20px;
+	padding-top: 20px;
+	color: #484f96;
+}
+
 #roses {
 	float: left;
 }
