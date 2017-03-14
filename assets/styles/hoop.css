@@ -95,6 +95,28 @@ li a {
 	display: inline-block;
 }
 
+#announcement {
+	border: medium inset #E99DAB;
+	padding-top: 0px;
+	padding-left: 0px;
+	color: #484f96;
+	position: relative;
+	left: 75px;
+	top: 20px;
+	display: inline-block;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif;
+	text-align: center;
+	font-size: 100%;
+}
+
+#album {
+	float: left;
+	border: medium inset #E99DAB;
+	width: 200px;
+	height: 200px;
+	color: 555555;
+}
+
 #learnmore {
 	font-size: 100%;
 	font-style: italic;
