@@ -1,0 +1,159 @@
+@charset "UTF-8";
+
+/* Structure */
+
+body {
+	margin: 0;
+	padding: 0;
+	background-image: url("../img/blue%20sky.jpg");
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/
+	background-color: #FF00FF;
+	font-family: Gotham,'Helvetica Neue', Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	color: #260C84;
+}
+
+#decencydenlogo {
+	width: 200px;
+	margin: 30px;
+}
+
+#oval {
+	display: none;
+	width: 200px;
+	height: 75px;
+	background: #9C9CE3;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+	opacity: 0.5;
+	-webkit-border-before-color: #9C9CE3;
+	-webkit-border-after-color: #9C9CE3;
+	float: right;
+}
+#moon {
+	float: right;
+	margin-right: 50px;
+}
+
+#main {
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	width: 100%;
+}
+
+#nav {
+	list-style:none;
+	margin: 0 10px;
+	background-color:rgba(123,234,251,0.3);
+	line-height:145%;
+	padding:10px;
+	display:inline-block;
+	width: 120px;
+}
+
+li a {
+	display: inline-block;
+    text-decoration: none;
+    margin: 10px;
+    line-height: 150%;
+    /*min-width: 65px;*/
+    padding-left: 5px;
+    padding-right: 5px;
+}
+li a:link, li a:visited {
+	text-decoration: none;
+    color: #260C84;
+}
+li a:hover {
+	background: white;
+}
+
+#content {
+	width: 100%;
+	min-width: 700px;
+	padding: 0 25px 15px;
+	margin-right: 25px;
+	/*background: rgba(123,234,251,0.3);*/
+}
+.albums {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	/*margin-bottom: 25px;*/
+}
+.album {
+	display: flex;
+	flex-direction: column;
+	margin-bottom: 25px;
+}
+.niko-album, .hoop-album {
+	/*position: relative;*/
+}
+.niko-album {
+	margin-left: 20%;
+	/*margin-top: 25px;*/
+}
+.hoop-album {
+	margin-left: 40%;
+	/*margin-top: 50px;*/
+}
+.art-and-announcement {
+	display: flex;
+	flex-direction: row;
+}
+.announcement {
+	border: medium inset #E99DAB;
+	/*padding: 20px;*/
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	text-align: center;
+	font-size:125%;
+	color:#260C84;
+	font-style:italic;
+	text-decoration: none;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.album-art {
+	border: medium inset #E99DAB;
+	width: 200px;
+	height: 200px;
+	margin-right: 25px;
+}
+.bandcamp {
+	/*width: 200px;*/
+	margin-top: 10px;
+}
+.bandcamp a {
+	font-size: 115%;
+	display: inline;
+	background-color:rgba(123,234,251,0.4);
+}
+
+#wimpy {
+	text-align: left !important;
+	margin-left: 60%;
+}
+
+footer {
+	margin-top: 25px;
+}
+#roses {
+	float: left;
+	margin-bottom: 10px;
+}
+#construction {
+	float: right;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+#copyright {
+	clear: both;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}

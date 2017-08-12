@@ -1,0 +1,47 @@
+body {
+	background: url(../img/lava.gif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#content {
+	background: rgba(123,234,251,0.3);
+}
+.versing {
+	font-family: "Times", serif;
+	font-weight: bold;
+	font-size: 80px;
+	font-style: italic;
+	text-align: center;
+	margin: 15px 0;
+	text-shadow: 2px 2px white;
+	color: black;
+}
+.lightning {
+	/*float: right;*/
+	width: 80px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.row {
+	display: flex;
+	justify-content: space-around;
+}
+.description {
+	flex-basis: 50%;
+	text-align: left;
+	max-width: 500px;
+	min-width: 400px;
+	margin: 0 auto 25px;
+}
+.video {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 25px;
+}
+footer {
+	color: white;
+}
+#construction {
+	display: none;
+}
