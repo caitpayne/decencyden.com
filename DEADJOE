@@ -264,3 +264,15 @@ SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty
 /home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
 /home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
 /home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+
+*** These modified files were found in JOE when it aborted on Thu Sep 28 17:55:30 2017
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/MERGE_MSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
