@@ -217,3 +217,33 @@ SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty
 /home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
 /home/cairob4/decencyden.com/.git/MERGE_MSG
 /home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+
+*** These modified files were found in JOE when it aborted on Thu Sep 28 17:06:33 2017
+*** JOE was aborted because the terminal closed
+
+*** These modified files were found in JOE when it aborted on Thu Sep 28 17:15:37 2017
+*** JOE was aborted because the terminal closed
+
+*** File '/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: cairob4 <cairob4@dark-phoenix.dreamhost.com>
+#
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   DEADJOE
+#	modified:   index.html
+#
+
+*** File '(Unnamed)'
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/MERGE_MSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+/home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
