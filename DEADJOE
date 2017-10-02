@@ -276,3 +276,6 @@ SPLTMP=ispell.tmp;cat >$SPLTMP;aspell --lang=en_US.utf-8 -x -c $SPLTMP </dev/tty
 /home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
 /home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
 /home/cairob4/decencyden.com/.git/COMMIT_EDITMSG
+
+*** These modified files were found in JOE when it aborted on Sun Oct  1 18:01:02 2017
+*** JOE was aborted because the terminal closed
